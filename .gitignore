@@ -15,4 +15,7 @@ hugo_stats.json
 # VS Code
 .vscode/
 
+# phpstorm
+.idea
+
 
